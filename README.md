@@ -6,9 +6,7 @@ Minicurso Git - PET Computação
 
 
 
-
-
-
+* Gustavo Dutra Santana
 
 
 
