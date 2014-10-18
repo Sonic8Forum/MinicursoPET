@@ -9,7 +9,7 @@ Minicurso Git - PET Computação
 
 
 
-Carlos Schneider
+* Carlos Schneider
 
 
 
