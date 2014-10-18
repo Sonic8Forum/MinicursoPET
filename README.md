@@ -5,9 +5,7 @@ Minicurso Git - PET Computação
 
 
 
-
-
-
+* Felipe Carvalho
 
 
 
