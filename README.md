@@ -25,6 +25,7 @@ Lais Novelli
 Ricardo
 
 Adams
+* Tarzan
 
 * Helio Fernandes :)
 
