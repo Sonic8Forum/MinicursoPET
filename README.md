@@ -13,6 +13,7 @@ Minicurso Git - PET Computação
 
 
 * Carlos Schneider
+Ricardo Ramos de Oliveira
 
 
 Raphael Fernandes Ribeiro
