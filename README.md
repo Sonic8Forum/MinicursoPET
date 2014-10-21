@@ -4,42 +4,17 @@ Minicurso Git - PET Computação
 * Bruno Orlandi
 * Vinicius Lovato
 * Matheus 
-
-
-
-
 * Gustavo Dutra Santana
-
-
 * Felipe Carvalho
-
 * Carlos Schneider
-Ricardo Ramos de Oliveira
-
-
-Raphael Fernandes Ribeiro
-
-Lais Novelli
-
+* Ricardo Ramos de Oliveira
+* Raphael Fernandes Ribeiro
+* Lais Novelli
 * Hiroki
-
-Ricardo
-
-Adams
+* Ricardo
+* Adams
 * Tarzan
-
 * Helio Fernandes :)
-
-Frederico
-
+* Frederico
 * Cainã D'Ajuda
-
-
-
-
-
-
-
-
-
-Giovane o/
+* Giovane o/
