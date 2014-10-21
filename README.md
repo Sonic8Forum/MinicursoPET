@@ -11,6 +11,7 @@ Minicurso Git - PET Computação
 * Gustavo Dutra Santana
 
 
+* Felipe Carvalho
 
 * Carlos Schneider
 Ricardo Ramos de Oliveira
